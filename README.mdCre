@@ -1,0 +1,1 @@
+Created an online dictionary using the API https://api.dictionaryapi.dev/api/v2/entries/en/ and also included the code to give an error if word is not found
